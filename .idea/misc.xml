@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Al Hafiz Enterprises/AndroidStudioProjects/FunnyMemes/app/src/main/res/layout/activity_image_view.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Al Hafiz Enterprises/AndroidStudioProjects/FunnyMemes/app/src/main/res/layout/activity_main.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/Al Hafiz Enterprises/AndroidStudioProjects/FunnyMemes/app/src/main/res/layout/activity_single_image.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Al Hafiz Enterprises/AndroidStudioProjects/FunnyMemes/app/src/main/res/layout/fragment_favourite.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/Al Hafiz Enterprises/AndroidStudioProjects/FunnyMemes/app/src/main/res/layout/fragment_home.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Al Hafiz Enterprises/AndroidStudioProjects/FunnyMemes/app/src/main/res/layout/fragment_new_sub.xml" value="0.21" />
+        <entry key="..\:/Users/Al Hafiz Enterprises/AndroidStudioProjects/FunnyMemes/app/src/main/res/layout/fragment_save.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/Al Hafiz Enterprises/AndroidStudioProjects/FunnyMemes/app/src/main/res/layout/fragment_setting.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/Al Hafiz Enterprises/AndroidStudioProjects/FunnyMemes/app/src/main/res/layout/fragment_single_image.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Al Hafiz Enterprises/AndroidStudioProjects/FunnyMemes/app/src/main/res/layout/rv_iamge_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Al Hafiz Enterprises/AndroidStudioProjects/FunnyMemes/app/src/main/res/layout/rv_image_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Al Hafiz Enterprises/AndroidStudioProjects/FunnyMemes/app/src/main/res/layout/vp_image_slide.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Al Hafiz Enterprises/AndroidStudioProjects/FunnyMemes/app/src/main/res/menu/bottom_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/dartprjects/FunnyMemes/app/src/main/res/layout/activity_single_image.xml" value="0.20416666666666666" />
+        <entry key="..\:/dartprjects/FunnyMemes/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/dartprjects/FunnyMemes/app/src/main/res/layout/fragment_new_sub.xml" value="0.20416666666666666" />
+        <entry key="..\:/dartprjects/FunnyMemes/app/src/main/res/layout/vp_image_slide.xml" value="0.20416666666666666" />
+        <entry key="..\:/dartprjects/FunnyMemes/app/src/main/res/menu/bottom_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
